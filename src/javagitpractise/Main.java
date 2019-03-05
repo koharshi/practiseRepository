@@ -17,6 +17,10 @@ public class Main {
     public static void main(String[] args) {
         
         System.out.println("my name is harshit kohli ");
+        
+        System.out.println("The green light on sides which show up when u add new code tells you that this code is different from ehat you have saved on the git hub ");
     }
+    
+    
     
 }
